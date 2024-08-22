@@ -20,6 +20,7 @@ The Hustlers Community stands out by uniquely blending hands-on workshops, colla
 
 ## Connect With Us
 
-- Follow us on [Twitter](#) for updates
-- Join our [Discord](#) community
+- Follow us on [Twitter](https://x.com/thehustlerscomm) for updates
+- Follow us on [Instagram](https://www.instagram.com/thehustlers.community) for updates
+- Visit our [Website](https://thehustlerscommunity.odoo.com) for hackathons and Tech Events
 - Contribute to our [GitHub Projects](#)
